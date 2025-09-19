@@ -1,5 +1,5 @@
 # WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing (Accept by TCSVT 2025.09.18)
-This is the office implementation of ***WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing, TCSVT2025.***
+This is the office implementation of ***WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing.***
 
 Jie Sun, Heng Liu, Yongzhen Wang, Xiao-Ping Zhang and Mingqiang Wei
 <br>
