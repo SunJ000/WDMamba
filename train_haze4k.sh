@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python basicsr/train.py -opt /opt/data/private/SJ/WDMamba/options/train_WDMamba_Haze4K.yml
