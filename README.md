@@ -49,12 +49,16 @@ python inference.py
 
 ## Citation
 ```
-@article{sun2025wdmamba,
-  title={WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing},
+@ARTICLE{11180084,
   author={Sun, Jie and Liu, Heng and Wang, Yongzhen and Zhang, Xiao-Ping and Wei, Mingqiang},
-  journal={arXiv preprint arXiv:2505.04369},
-  year={2025}
-}
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={WDMamba;Wavelet degradation prior;Vision Mamba;Image dehazing;Contrastive regularization},
+  doi={10.1109/TCSVT.2025.3614173}}
 ```
 
 ## Acknowledgement
