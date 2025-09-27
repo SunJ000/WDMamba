@@ -1,4 +1,4 @@
-# WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing (Accept by TCSVT 2025.09.18)
+# WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing (TCSVT 2025)
 This is the office implementation of ***WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing.***
 
 Jie Sun, Heng Liu, Yongzhen Wang, Xiao-Ping Zhang and Mingqiang Wei
@@ -46,6 +46,10 @@ python inference.py
 ## Dehazing Results
 
 [Haze4K, RESIDE-6K, NH-HAZE, Dense-HAZE, O-HAZE(1200×1600)] (https://pan.baidu.com/s/1VdqpPY-Y1gMmpK4ej37wmg?pwd=y9e6)
+
+## Pre-trained Models
+
+[Haze4K, RESIDE-6K, NH-HAZE, Dense-HAZE, O-HAZE(1200×1600)] (https://pan.baidu.com/s/1HIs-nHXEaLxwBb1279PVbw?pwd=98j9)
 
 ## Citation
 ```
